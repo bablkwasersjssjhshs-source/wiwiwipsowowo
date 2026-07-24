@@ -8,7 +8,7 @@ import re
 import random
 import logging
 
-BOT_TOKEN = "8946812123:AAFoi14oJiWtf8mkGUaEGV8gE6WRLFS90Rw"
+BOT_TOKEN = "8865120202:AAHN0kemm7pPgvn8B-qntFe5TtcgR72g94Y"
 bot = Bot(token=BOT_TOKEN)
 dp = Dispatcher()
 
