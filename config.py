@@ -1,8 +1,0 @@
-TOKEN = '8865120202:AAHN0kemm7pPgvn8B-qntFe5TtcgR72g94Y'
-ADMIN = 118272062
-SUPPORT = 't.me/s212ls'
-photo_path = 'image.png'
-API_ID = 26484445
-API_HASH = '1181da6642bfbd3bd7275754d3f16a30'
-CRYPTOTOKEN = 'ТОКЕН ОТ SEND'
-DIRECTORY = 'sessions'
